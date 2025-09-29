@@ -34,3 +34,16 @@ day3
  8.What is constructor chaining?
  9.How to implement encapsulation?
  10.Explain super keyword.
+
+day4
+
+ 1.Difference between FileReader and BufferedReader?
+ 2.What is try-with-resources?
+ 3.How to handle IOException?
+ 4.What are checked and unchecked exceptions?
+ 5.How does file writing work in Java?
+ 6.What is the difference between append and overwrite mode?
+ 7.What is exception propagation?
+ 8.How to log exceptions?
+ 9.What is a stack trace?
+ 10.When to use finaly block?
